@@ -8,5 +8,6 @@
 [David Bombal](https://www.youtube.com/c/DavidBombal/featured)| Kênh này rất nhiều content hay về Security, nhất là Network, có free CCNA courses |
 |[freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp) | Kênh học code | 
 |[HackerSploit](https://www.youtube.com/c/HackerSploit/videos) | Kênh chất lượng về content security |
+|[JohnHammond](https://www.youtube.com/c/JohnHammond010/featured) | Kênh phù hợp với nhiều level, đặc biệt là beginner vì tác giả giải thích rất chi tiết dù là chall dễ|
 
 
