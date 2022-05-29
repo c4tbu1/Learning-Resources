@@ -1,1 +1,12 @@
 # Learning-Resources
+
+# Youtube 
+| Tên Channel | Mô tả
+| ----------- | ----------- |
+[CryptoCat](https://www.youtube.com/c/CryptoCat23)| Kênh có nhiều content hay về Web và Pwn |
+[IppSec](https://www.youtube.com/c/ippsec)| Một kênh rất chất lượng về HTB Machines |
+[David Bombal](https://www.youtube.com/c/DavidBombal/featured)| Kênh này rất nhiều content hay về Security, nhất là Network, có free CCNA courses |
+|[freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp) | Kênh học code | 
+|[HackerSploit](https://www.youtube.com/c/HackerSploit/videos) | Kênh chất lượng về content security |
+
+
