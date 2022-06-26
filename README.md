@@ -12,3 +12,18 @@
 |[Thanh Duong Huu](https://www.youtube.com/c/ThanhDuongHuu/playlists) | Web Dev và DSA |
 
 
+# Tools 
+| Tổng hợp|
+| ----------- | 
+[HACKING TOOLS](https://github.com/Z4nzu/hackingtool?fbclid=IwAR2we-inoHdOvlSm-zmVeNuzq4v0aChGREyEcHGTcndDvdrvbKLu4apBCU4)
+[CTF TOOLS](https://github.com/zardus/ctf-tools)
+
+# Forensics 
+
+# Reverse Engineering
+
+# Cryptography
+
+# Pwn 
+
+# Web Exploitation
