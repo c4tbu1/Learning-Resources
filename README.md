@@ -19,6 +19,7 @@
 [Project Euler](https://projecteuler.net/)| Xong DSA ta sẽ học lý thuyết số. Lý thuyết số sẽ giúp ta hình dung được tại sao nó lại như này và hiểu được các thuật toán đằng sau các hệ mã hóa, từ đó ta có thể phân tích vầ khai thác các vần đề về an toàn của hệ mã hóa đó. Web sẽ có các câu hỏi liên quan đến lý thuyết số, các bài toán nổi tiếng, giúp luyện tư duy về số học, các thuật toán và tối ưu thuật toán |
 [PDF books](https://drive.google.com/drive/folders/1H0VrNseoOPtAKlko9FX-fUg7X0CQxZf5?usp=sharing) | Tổng hợp sách về Crypto (by m1dm4n). Lưu ý: Yêu cầu mail UIT! |
 [CryptoHack's Gitbook](https://cryptohack.gitbook.io/cryptobook/fundamentals/modular-arithmetic) | Gitbook do các **ngài** sáng lập ra web CryptoHack viết | 
+[A modern practical book](https://cryptobook.nakov.com/cryptographic-hash-functions/secure-hash-algorithms) | Gitbook về mật mã học | 
 [Sagemath](https://doc.sagemath.org/html/en/tutorial/) | SageMath là một hệ thống đại số máy tính với các tính năng bao gồm nhiều khía cạnh của toán học, bao gồm đại số, tổ hợp, lý thuyết đồ thị, phân tích số, lý thuyết số, tính toán và thống kê,.. Rất thích hợp để sử dụng khi giải các câu Crypto nặng về toán với các plugin có sẵn
 [Sagemath on VS Code](https://zhuanlan.zhihu.com/p/297736314) | Hướng dẫn tích hợp sagemath vào VS Code để sử dụng tự động gợi ý |
 [CryptoHack](https://cryptohack.org/)| Có các khóa học và lý thuyết cho từng mảng trong Crypto, thực hành ctf với độ khó phủ từ **newbie** cho tới **brain fucking** |
