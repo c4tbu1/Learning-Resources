@@ -47,6 +47,7 @@
 [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) | Tool để tự động tấn công các kiểu tấn công phổ biến trong RSA (Thường dùng trong ctf) |
 [Alpertron](https://www.alpertron.com/ENGLISH.HTM) | Trang web được tích hợp sẫn để tính toán 1 sô vần đề như: Kiểm tra 1 số bất kì có phải số nguyên tố hay không 1 cách nhanh chóng (thường dùng cho các số hằng trăm chữ số), Phân tích 1 số thành tích các số nguyên tố (có thể tính được trong thời gian đa thức nếu các sô nguyên tố dưới 128 bit), bài toán logarit rời rạc (Có thể tính đươc với các trường số nguyên tố dưới 64 bit 1 cách nhanh chóng),... |
 [FactorDB](http://factordb.com/) | Database cho các số nguyên tố (có các số lớn). Thường ghi gặp các bài liên quan đến phân tích 1 số thành tích các sô nguyên tố, ta có thể lên đây kiểm tra đầu tiên xem số đó đã bị leak chưa. |
+| [Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Đại số tuyến tính |
 
 # Pwn 
 
