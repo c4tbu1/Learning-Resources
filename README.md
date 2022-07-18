@@ -50,5 +50,9 @@
 | [Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Đại số tuyến tính |
 
 # Pwn 
+| Tên | Mô tả
+| ----------- | ----------- |
+|[pwn.college](https://pwn.college) | Pwn fundamental | 
+| [pwn101 by CryptoCat](https://github.com/Crypto-Cat/CTF/tree/main/pwn/binary_exploitation_101) | Series về pwn cơ bản cho người mới, có kèm theo nhiều nguồn tài liệu hay khác nữa  | 
 
 # Web Exploitation
