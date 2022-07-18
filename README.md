@@ -54,5 +54,6 @@
 | ----------- | ----------- |
 |[pwn.college](https://pwn.college) | Pwn fundamental | 
 | [pwn101 by CryptoCat](https://github.com/Crypto-Cat/CTF/tree/main/pwn/binary_exploitation_101) | Series về pwn cơ bản cho người mới, có kèm theo nhiều nguồn tài liệu hay khác nữa  | 
+| [efiens team's blog](https://blog.efiens.com) | just a blog | 
 
 # Web Exploitation
