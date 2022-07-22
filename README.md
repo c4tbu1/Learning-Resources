@@ -10,7 +10,7 @@
 |[HackerSploit](https://www.youtube.com/c/HackerSploit/videos) | Kênh chất lượng về content security |
 |[JohnHammond](https://www.youtube.com/c/JohnHammond010/featured) | Kênh phù hợp với nhiều level, đặc biệt là beginner vì tác giả giải thích rất chi tiết dù là chall dễ|
 |[Thanh Duong Huu](https://www.youtube.com/c/ThanhDuongHuu/playlists) | Web Dev và DSA |
-
+|[Hack'em All](https://hackemall.live) | Roadmap cho từng mảng , CTF WriteUp, ... | 
 
 # Tools 
 | Tổng hợp|
@@ -24,10 +24,18 @@
 | ----------- | ----------- |
 |[Volatility Cheatsheet](https://pastebin.com/2LXNgAtb) | Cheatsheet Volatility của chuyên gia an ninh mạng Andrea Fortuna | 
 |[Wireshark](https://davidbombal.com/tag/wireshark/) | Tutorial Wireshark của David Bombal | 
+|[Blue Team Docs Collection](https://github.com/tom0li/collection-document/blob/master/Blue%20Team%20Field%20Manual.pdf) | Tài liệu sưu tầm cho Blue Team |
+|[Stegnography Toolkit](https://github.com/DominicBreuker/stego-toolkit) | Toolkit dành cho Stegnography | 
+
 
 
 
 # Reverse Engineering
+| Tên | Mô tả
+| ----------- | ----------- |
+|[m4n0w4r's blog](https://kienmanowar.wordpress.com/r4ndoms-beginning-reverse-engineering-tutorials/) | RE Nhập môn | 
+|[Creel](https://www.youtube.com/c/WhatsACreel/playlists) | Lập trình C và ASM | 
+
 
 # Crypto
 | Tên | Mô tả
@@ -57,3 +65,15 @@
 | [efiens team's blog](https://blog.efiens.com) | just a blog | 
 
 # Web Exploitation
+| Tên | Mô tả
+| ----------- | ----------- |
+|[Coursena WebDev](https://www.coursera.org/learn/html-css-javascript-for-web-developers?) | Khóa học lập trình web | 
+|[PortSwigger Academy](https://portswigger.net/web-security) | Web exploit training | \
+|[DVWA](https://www.kalilinux.in/2020/01/setup-dvwa-kali-linux.html) | Hướng dẫn setup DVWA lab để thực hành exploit các lỗ hổng thường gặp trên web. [WriteUp](https://www.youtube.com/playlist?list=PLHUKi1UlEgOJLPSFZaFKMoexpM6qhOb4Q) nếu cần thiết | 
+
+
+Một số công cụ hữu ích 
+ Tên | Mô tả
+| ----------- | ----------- |
+|[RevShell](https://www.revshells.com) | Reverse Shell payload generator | 
+|[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Template%20Injection/README.md) | Tổng hợp payload cho các lỗ hổng thường gặp | 
