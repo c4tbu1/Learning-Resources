@@ -11,6 +11,7 @@
 |[JohnHammond](https://www.youtube.com/c/JohnHammond010/featured) | Kênh phù hợp với nhiều level, đặc biệt là beginner vì tác giả giải thích rất chi tiết dù là chall dễ|
 |[Thanh Duong Huu](https://www.youtube.com/c/ThanhDuongHuu/playlists) | Web Dev và DSA |
 |[Hack'em All](https://hackemall.live) | Roadmap cho từng mảng , CTF WriteUp, ... | 
+|[PwnFunction](https://www.youtube.com/c/PwnFunction) | Giải thích các lỗ hổng và exploit bằng animation rất bánh cuốn | 
 
 # Tools 
 | Tổng hợp|
@@ -70,6 +71,12 @@
 |[Coursena WebDev](https://www.coursera.org/learn/html-css-javascript-for-web-developers?) | Khóa học lập trình web | 
 |[PortSwigger Academy](https://portswigger.net/web-security) | Web exploit training | \
 |[DVWA](https://www.kalilinux.in/2020/01/setup-dvwa-kali-linux.html) | Hướng dẫn setup DVWA lab để thực hành exploit các lỗ hổng thường gặp trên web. [WriteUp](https://www.youtube.com/playlist?list=PLHUKi1UlEgOJLPSFZaFKMoexpM6qhOb4Q) nếu cần thiết | 
+|[Trumpiter Trick](https://github.com/Trumpiter-max/Tricks-in-web-exploit) | Trick tổng hợp | 
+|[PwnFunction's Challenges](https://xss.pwnfunction.com) | Các challenges của tác giả Pwn Function | 
+|[HackPlaining](https://www.hacksplaining.com/lessons) | Giải thích những lỗi phổ biến, có bài tập, ví dụ, câu hỏi cuối bài | 
+|[HackTrick](https://book.hacktricks.xyz/welcome/readme) | Trick exploit theo dạng blog | 
+
+
 
 
 Một số công cụ hữu ích 
