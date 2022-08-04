@@ -27,6 +27,9 @@
 |[Wireshark](https://davidbombal.com/tag/wireshark/) | Tutorial Wireshark của David Bombal | 
 |[Blue Team Docs Collection](https://github.com/tom0li/collection-document/blob/master/Blue%20Team%20Field%20Manual.pdf) | Tài liệu sưu tầm cho Blue Team |
 |[Stegnography Toolkit](https://github.com/DominicBreuker/stego-toolkit) | Toolkit dành cho Stegnography | 
+|[Volatility Cheatcheat2](https://repository.root-me.org/Forensic/EN%20-%20Volatility%20cheatsheet%20v2.4.pdf?_gl=1*1stljrc*_ga*MjAzMjY0ODIwLjE2NTk1Nzk3MTQ.*_ga_SRYSKX09J7*MTY1OTU3OTcxMy4xLjEuMTY1OTU4MDE2MS4w) | Cheatsheet từ root-me.org|
+|[The OSINT Curious Project](https://www.youtube.com/c/TheOSINTCuriousProject/featured) | Kênh chuyên về Osint |
+
 
 
 
